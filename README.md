@@ -1,6 +1,6 @@
 # quiz step 3.4.2 
 
- * [url] (https://stepik.org/lesson/86644/step/2?unit=63067)
+ * [url](https://stepik.org/lesson/86644/step/2?unit=63067)
  
 ## Задание
 
