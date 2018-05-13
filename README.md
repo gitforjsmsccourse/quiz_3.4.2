@@ -1,6 +1,7 @@
-# quiz step 3.4.2 
+# stepic course quiz step 3.4.2 
 
- * [url](https://stepik.org/lesson/86644/step/2?unit=63067)
+ * [course url](https://stepik.org/8540)
+ * [step url](https://stepik.org/lesson/86644/step/2?unit=63067)
  
 ## Задание
 
